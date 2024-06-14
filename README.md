@@ -8,6 +8,7 @@ A refreshingly simple data-driven game engine built in Rust
 Free and Open Source Forever!
 
 ![Bevy Logo](https://bevyengine.org/assets/bevy_logo_dark.svg)
+![Rapier Logo](https://rapier.rs/img/rapier_logo_color_textpath.svg)
 
 [Explorar Bevy Engine](https://bevyengine.org/)
 
